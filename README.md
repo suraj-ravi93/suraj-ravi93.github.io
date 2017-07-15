@@ -1,3 +1,6 @@
+![GitHub Logo](https://www.cleverfiles.com/howto/wp-content/uploads/2016/08/mini.jpg)
+
+
 ## About Me
 
 Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Let me help you walk through some of my works till date. To know more about me you, check out my [resume]().
@@ -19,7 +22,6 @@ A data analytical project which aims to find relationship between various health
 
 Implemented a [Slop Based Vertical Fragmentation(SBPA)]() algorithm in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
 
-![GitHub Logo](https://www.cleverfiles.com/howto/wp-content/uploads/2016/08/mini.jpg)
 
 
 - Bulleted
