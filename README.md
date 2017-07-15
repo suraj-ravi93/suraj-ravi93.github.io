@@ -6,9 +6,9 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 
 ### Completed Projects
 
-#Implementation of Explicit congestion notification (ECN) in TCP over wireless network in ns-3
+# Implementation of Explicit congestion notification (ECN) in TCP over wireless network in ns-3
 
-ECN allows end-to-end notification of network congestion without dropping packets. A [small modification to the working of TCP and ECN improved performance](https://github.com/suraj-ravi93/Implementation-of-Explicit-congestion-notification-ECN-in-TCP-over-wireless-network-in-ns-3.git).[Read more.](http://ieeexplore.ieee.org/document/905907/). 
+ECN allows end-to-end notification of network congestion without dropping packets. A small modification to the [working of TCP and ECN](https://github.com/suraj-ravi93/Implementation-of-Explicit-congestion-notification-ECN-in-TCP-over-wireless-network-in-ns-3.git) improved performance .[Read more.](http://ieeexplore.ieee.org/document/905907/). 
 
 
 ```markdown
