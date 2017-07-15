@@ -1,12 +1,13 @@
-## Welcome to Arun's homepage
+## About Me
 
+Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Let me help you walk through some of my works till date. To know more about me you, check out my resume.
+ 
 You can use the [editor on GitHub](https://github.com/suraj-ravi93/suraj_ravi93.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Completed Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[arun](http://adeepkit01.github.io/#projects) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
