@@ -17,14 +17,10 @@ A data analytical project which aims to find relationship between various health
 
 ### Slop Based Partitioning
 
-Implemented [Slop Based Vertical Fragmentation(SBPA)]() in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
+Implemented a [Slop Based Vertical Fragmentation(SBPA)]() algorithm in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
 
-```markdown
-Syntax highlighted code block
+![GitHub Logo](/images/logo.png)
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -33,16 +29,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-```
-[arun](http://adeepkit01.github.io/#projects) and ![Image](https://drive.google.com/open?id=0BwEgnohvIMGwbWhqeGxsTGhOazA)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suraj-ravi93/suraj_ravi93.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
