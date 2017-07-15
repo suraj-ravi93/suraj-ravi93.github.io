@@ -4,13 +4,21 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
  
 
 
-### Completed Projects
+## Completed Projects
 
-# Implementation of Explicit congestion notification (ECN) in TCP over wireless network in ns-3
+### Implementation of Explicit congestion notification (ECN) in TCP over wireless network in ns-3
 
-ECN allows end-to-end notification of network congestion without dropping packets. A small modification to the [working of TCP and ECN](https://github.com/suraj-ravi93/Implementation-of-Explicit-congestion-notification-ECN-in-TCP-over-wireless-network-in-ns-3.git) improved performance .[Read more.](http://ieeexplore.ieee.org/document/905907/). 
+ECN allows end-to-end notification of network congestion without dropping packets. A small modification to the [working of TCP and ECN](https://github.com/suraj-ravi93/Implementation-of-Explicit-congestion-notification-ECN-in-TCP-over-wireless-network-in-ns-3.git) improved performance .[Read more](http://ieeexplore.ieee.org/document/905907/). 
 
 
+### Diabetes Risk Among Women
+
+A data analytical project which aims to find relationship between various health indicators and onset of [Diabetes Among Women](). A sensitivity of 86% was obtained from the analysis.[Read more](http://pubmedcentralcanada.ca/pmcc/articles/PMC2245318/pdf/procascamc00018-0276.pdf)
+
+### Slop Based Partitioning
+```markdown
+Implemented [Slop Based Vertical Fragmentation(SBPA)]() in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
+```
 ```markdown
 Syntax highlighted code block
 
