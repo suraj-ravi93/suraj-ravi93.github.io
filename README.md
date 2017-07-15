@@ -23,9 +23,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[arun](http://adeepkit01.github.io/#projects) and ![Image](src)
 ```
+[arun](http://adeepkit01.github.io/#projects) and ![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
