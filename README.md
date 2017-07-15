@@ -1,12 +1,14 @@
 ## About Me
 
-Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Let me help you walk through some of my works till date. To know more about me you, check out my resume.
+Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Let me help you walk through some of my works till date. To know more about me you, check out my [resume]().
  
-You can use the [editor on GitHub](https://github.com/suraj-ravi93/suraj_ravi93.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
 ### Completed Projects
 
+#Implementation of Explicit congestion notification (ECN) in TCP over wireless network in ns-3
+
+ECN allows end-to-end notification of network congestion without dropping packets. A [small modification to the working of TCP and ECN improved performance](https://github.com/suraj-ravi93/Implementation-of-Explicit-congestion-notification-ECN-in-TCP-over-wireless-network-in-ns-3.git).[Read more.](http://ieeexplore.ieee.org/document/905907/). 
 
 
 ```markdown
