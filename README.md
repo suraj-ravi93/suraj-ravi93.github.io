@@ -16,9 +16,9 @@ ECN allows end-to-end notification of network congestion without dropping packet
 A data analytical project which aims to find relationship between various health indicators and onset of [Diabetes Among Women](). A sensitivity of 86% was obtained from the analysis.[Read more](http://pubmedcentralcanada.ca/pmcc/articles/PMC2245318/pdf/procascamc00018-0276.pdf)
 
 ### Slop Based Partitioning
-```markdown
+
 Implemented [Slop Based Vertical Fragmentation(SBPA)]() in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
-```
+
 ```markdown
 Syntax highlighted code block
 
@@ -34,7 +34,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[arun](http://adeepkit01.github.io/#projects) and ![Image](src)
+[arun](http://adeepkit01.github.io/#projects) and ![Image](https://drive.google.com/open?id=0BwEgnohvIMGwbWhqeGxsTGhOazA)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
