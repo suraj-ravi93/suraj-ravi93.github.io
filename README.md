@@ -1,7 +1,7 @@
 ![GitHub Logo](https://www.cleverfiles.com/howto/wp-content/uploads/2016/08/mini.jpg)
 
-<a href="html-image-hyperlink.php"><img src="/home/suraj_ravi/Desktop/mini.jpg" title="Describe Image Link Destination" width="300" height="200" /></a> 
-
+ 
+![me](https://github.com/suraj-ravi93/suraj-ravi93.github.io/blob/master/me.JPG)
 
 ## About Me
 
