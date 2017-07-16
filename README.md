@@ -16,7 +16,7 @@ ECN allows end-to-end notification of network congestion without dropping packet
 
 ### Diabetes Risk Among Women
 
-A data analytical project which aims to find relationship between various health indicators and onset of [Diabetes Among Women](). A sensitivity of 86% was obtained from the analysis.[Read more](http://pubmedcentralcanada.ca/pmcc/articles/PMC2245318/pdf/procascamc00018-0276.pdf)
+A data analytical project which aims to find relationship between various health indicators and onset of [Diabetes Among Women](https://github.com/suraj-ravi93/Diabetes-Risk-among-Women.git). A sensitivity of 86% was obtained from the analysis.[Read more](http://pubmedcentralcanada.ca/pmcc/articles/PMC2245318/pdf/procascamc00018-0276.pdf)
 
 ### Slop Based Partitioning
 
