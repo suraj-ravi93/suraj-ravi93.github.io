@@ -1,7 +1,7 @@
 ![GitHub Logo](https://www.cleverfiles.com/howto/wp-content/uploads/2016/08/mini.jpg)
 
  
-![Github Logo](https://github.com/suraj-ravi93/suraj-ravi93.github.io/blob/master/me.JPG)
+![Github Logo](https://github.com/suraj-ravi93/Slop-Based-Vertical-Partitioning/blob/master/me.JPG)
 
 ## About Me
 
