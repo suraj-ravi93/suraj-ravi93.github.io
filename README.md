@@ -50,12 +50,12 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 <br>
 <br>
 
-#### <p align="right">*Contact*</p>  
+#### <p align="right">**Contact**             </p>  
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Facebook](https://www.facebook.com/suraj.ravi93)
+ <p align="right">[Facebook](https://www.facebook.com/suraj.ravi93)              </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/arun-raveendran-82b87184/)
+ <p align="right">[Linkedin](https://www.linkedin.com/in/arun-raveendran-82b87184/)        </p>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
