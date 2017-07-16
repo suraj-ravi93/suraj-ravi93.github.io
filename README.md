@@ -45,9 +45,12 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Contact
+#### <p align="right">*Contact*</p>  
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Facebook](https://www.facebook.com/suraj.ravi93)
