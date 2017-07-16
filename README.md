@@ -6,12 +6,16 @@
 Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Let me help you walk through some of my works till date. To know more about me you, check out my [resume]().
  
 
+## Ongoing Project
+
+Solve an open problem for connectivity in Graphs. Details will be updated as the project proresses.
+
 
 ## Completed Projects
 
 ### Implementation of Explicit congestion notification (ECN) in TCP over wireless network in ns-3
 
-ECN allows end-to-end notification of network congestion without dropping packets. A small modification to the [working of TCP and ECN](https://github.com/suraj-ravi93/Implementation-of-Explicit-congestion-notification-ECN-in-TCP-over-wireless-network-in-ns-3.git) improved performance .[Read more](http://ieeexplore.ieee.org/document/905907/). 
+>ECN allows end-to-end notification of network congestion without dropping packets. A small modification to the [working of TCP >and ECN](https://github.com/suraj-ravi93/Implementation-of-Explicit-congestion-notification-ECN-in-TCP-over-wireless-network-in-ns-3.git) improved performance .[Read more](http://ieeexplore.ieee.org/document/905907/). 
 
 
 ### Diabetes Risk Among Women
