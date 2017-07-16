@@ -1,5 +1,7 @@
 ![GitHub Logo](https://www.cleverfiles.com/howto/wp-content/uploads/2016/08/mini.jpg)
 
+![me](https://github.com/suraj-ravi93/suraj-ravi93.github.io/blob/master/me.JPG)
+
  
 
 ## About Me
