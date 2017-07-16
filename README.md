@@ -50,7 +50,7 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 <br>
 <br>
 
-#### <p align="right">**Contact**</p>  
+<p align="right"><header><h4>Contact</h4></header></p>  
 
 
  
