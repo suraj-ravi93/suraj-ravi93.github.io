@@ -1,7 +1,6 @@
 ![GitHub Logo](https://www.cleverfiles.com/howto/wp-content/uploads/2016/08/mini.jpg)
 
  
-![Github Logo](https://github.com/suraj-ravi93/Slop-Based-Vertical-Partitioning/blob/master/me.JPG)
 
 ## About Me
 
@@ -12,6 +11,7 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 <br>
 
 ## Ongoing Project
+<br>
 
 >Solve an open problem for connectivity in Graphs. Details will be updated as the project progresses.
 
@@ -21,6 +21,7 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 <br>
 
 ## Completed Projects
+<br>
 
 ### Implementation of Explicit congestion notification (ECN) in TCP over wireless network in ns-3
 
@@ -40,7 +41,7 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 
 ### Slop Based Partitioning
 
->Implemented a [Slop Based Vertical Fragmentation(SBPA)](https://github.com/suraj-ravi93/Slop-Based-Vertical-Partitioning.git) >algorithm in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
+>Implemented a [Slop Based Vertical Fragmentation(SBPA)](https://github.com/suraj-ravi93/Slop-Based-Vertical-Partitioning.git) algorithm in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
 
 
 <br>
@@ -63,5 +64,5 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
  <p align="right"><a href="https://github.com/suraj-ravi93">Github</a></p>
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+
 
