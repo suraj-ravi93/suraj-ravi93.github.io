@@ -38,9 +38,9 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 
 **Bold** and _Italic_ and `Code` text
 
-                                                                      #### Contact
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Contact
 
-                                                                      [Facebook](https://www.facebook.com/suraj.ravi93)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Facebook](https://www.facebook.com/suraj.ravi93)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
