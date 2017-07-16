@@ -41,12 +41,10 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 
 
 
-
-<script>
-for(var x=0;x<=10;x++){
-document.write("<br>")
-}
-</script>
+<br>
+<br>
+<br>
+<br>
 
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Contact
