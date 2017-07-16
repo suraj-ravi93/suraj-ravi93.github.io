@@ -20,15 +20,10 @@ A data analytical project which aims to find relationship between various health
 
 ### Slop Based Partitioning
 
-Implemented a [Slop Based Vertical Fragmentation(SBPA)]() algorithm in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
+Implemented a [Slop Based Vertical Fragmentation(SBPA)](https://github.com/suraj-ravi93/Slop-Based-Vertical-Partitioning.git) algorithm in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
 
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -36,5 +31,3 @@ Implemented a [Slop Based Vertical Fragmentation(SBPA)]() algorithm in Distribut
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
