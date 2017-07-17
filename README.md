@@ -1,6 +1,5 @@
-![GitHub Logo](https://www.cleverfiles.com/howto/wp-content/uploads/2016/08/mini.jpg)
 
-![me](https://ufile.io/pmxhu)
+
 
  
 
