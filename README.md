@@ -58,10 +58,8 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 
 
  
- <p align="right"><a href="https://www.linkedin.com/in/arun-raveendran-82b87184/">Linkedin</a></p>
- 
+ <p align="right"><a href="https://www.linkedin.com/in/arun-raveendran-82b87184/">Linkedin</a></p> 
  <p align="right"><a href="https://www.facebook.com/suraj.ravi93">Facebook</a></p>
-
  <p align="right"><a href="https://github.com/suraj-ravi93">Github</a></p>
 
 
