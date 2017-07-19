@@ -43,6 +43,12 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 
 >Implemented a [Slop Based Vertical Fragmentation(SBPA)](https://github.com/suraj-ravi93/Slop-Based-Vertical-Partitioning.git) algorithm in Distributed Database System.[Read more](http://research.ijcaonline.org/volume99/number4/pxc3897870.pdf)
 
+<br>
+<br>
+
+### Handwriting Recognition
+
+>Implemented a handwiritng recognition system using Binary Segmentation and trained the datasets using KNN classifiers to get better results.
 
 <br>
 <br>
