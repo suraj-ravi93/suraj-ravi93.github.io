@@ -4,8 +4,9 @@
 
 ## About Me
 
-Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Let me help you walk through some of my works till date. To know more about me you, check out my [resume](https://github.com/suraj-ravi93/suraj-ravi93.github.io/blob/master/Arunresume.pdf).
- 
+Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Let me help you walk through some of my works till date. To know more about me you, check out my [resume](https://drive.google.com/drive/folders/0ByG69tIrGbsVSUh3ZjJheUFEdnM)
+```(https://github.com/suraj-ravi93/suraj-ravi93.github.io/blob/master/Arunresume.pdf).
+ ```
 <br>
 <br>
 <br>
