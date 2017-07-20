@@ -52,6 +52,13 @@ Currently pursuing my Master's degree in Computer Science and Engineering from N
 
 <br>
 <br>
+
+### Iterative Wiener filter
+
+>The project aims to increase the performance by modifying the original working of Wiener filters. The modified version helpps in better performance in biomedical images.[Read more](http://www.sciencedirect.com/science/article/pii/S0030399216304480)
+
+<br>
+<br>
 <br>
 <br>
 <br>
